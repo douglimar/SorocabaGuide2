@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sorocaba Guide</string>
+    <string name="parques_e_pracas">Parks and recreations</string>
+    <string name="cultura_e_entretenimento">Culture</string>
+    <string name="monumentos_e_locais_historicos">Historical Places</string>
+</resources>

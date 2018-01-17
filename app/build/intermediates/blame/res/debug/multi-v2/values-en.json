@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "2,4,5,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,174,235,107",
+                        "endColumns": "51,60,76,66",
+                        "endOffsets": "102,230,307,169"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,107,168,245",
+                        "endColumns": "51,60,76,66",
+                        "endOffsets": "102,163,240,307"
+                    }
+                }
+            ]
+        }
+    ]
+}
