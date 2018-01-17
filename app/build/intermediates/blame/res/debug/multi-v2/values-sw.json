@@ -21,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/67adeedca5bf2fe346b8b8699a26e20a/res/values-sw/values.xml",
+                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/581478df545dec72d0c29d5c400523ed/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "285",
+                        "startOffsets": "283",
                         "endColumns": "204",
-                        "endOffsets": "489"
+                        "endOffsets": "487"
                     },
                     "to": {
                         "startLines": "21",
@@ -38,13 +38,13 @@
                     }
                 },
                 {
-                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.6.2.aar/445519228cf688ae758b726d3ad27e60/res/values-sw/values.xml",
+                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/4bea35cf03c1011aa8e6f39ea399496b/res/values-sw/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "237,307,433,497,560,639,748",
+                        "startOffsets": "235,305,431,495,558,637,746",
                         "endColumns": "69,125,63,62,78,108,75",
-                        "endOffsets": "306,432,496,559,638,747,823"
+                        "endOffsets": "304,430,494,557,636,745,821"
                     },
                     "to": {
                         "startLines": "22,23,24,25,26,27,28",

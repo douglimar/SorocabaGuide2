@@ -4,13 +4,13 @@
             "outputFile": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
-                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.6.2.aar/445519228cf688ae758b726d3ad27e60/res/values-fa/values.xml",
+                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.8.0.aar/4bea35cf03c1011aa8e6f39ea399496b/res/values-fa/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
-                        "startOffsets": "237,305,420,485,551,627,731",
+                        "startOffsets": "235,303,418,483,549,625,729",
                         "endColumns": "67,114,64,65,75,103,69",
-                        "endOffsets": "304,419,484,550,626,730,800"
+                        "endOffsets": "302,417,482,548,624,728,798"
                     },
                     "to": {
                         "startLines": "22,23,24,25,26,27,28",
@@ -21,13 +21,13 @@
                     }
                 },
                 {
-                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.2.aar/67adeedca5bf2fe346b8b8699a26e20a/res/values-fa/values.xml",
+                    "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/581478df545dec72d0c29d5c400523ed/res/values-fa/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "285",
+                        "startOffsets": "283",
                         "endColumns": "213",
-                        "endOffsets": "498"
+                        "endOffsets": "496"
                     },
                     "to": {
                         "startLines": "21",

@@ -1,19 +1,19 @@
 [
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_map_black_24dp.png.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_map_black_24dp.png"
-    },
-    {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_ic_kasatu_maru_thumb.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/ic_kasatu_maru_thumb.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_campolim4.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_campolim4.jpg"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae6d1d0f083a206086ba7d247be85f5c/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_campolim4.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_campolim4.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_ic_kasatu_maru_thumb.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/ic_kasatu_maru_thumb.jpg"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_map_black_24dp.png.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_map_black_24dp.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -24,16 +24,16 @@
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae6d1d0f083a206086ba7d247be85f5c/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae6d1d0f083a206086ba7d247be85f5c/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_fazendaipanema8.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_fazendaipanema8.jpg"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/7644a1f3539fd1ebc7be7acbf00914af/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_fazendaipanema8.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_fazendaipanema8.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/ae6d1d0f083a206086ba7d247be85f5c/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_card_travel_red_24dp.xml.flat",
