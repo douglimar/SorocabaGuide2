@@ -11,18 +11,21 @@ import java.util.ArrayList;
 
 class Place {
 
-    public String PlaceName;
-    public String PlaceSmallDescription;
-    public String PlaceFullDescription;
-    public String PlaceAddress;
-    public  int PlaceThumb;
-    public int[] PlacePictures;
+    private String
+
+
+            PlaceName;
+    private String PlaceSmallDescription;
+    private String PlaceFullDescription;
+    private String PlaceAddress;
+    private int PlaceThumb;
+    private int[] PlacePictures;
 
     public String getPlaceAddress() {
         return PlaceAddress;
     }
 
-    public void setPlaceAddress(String PlaceAddress) {
+    private void setPlaceAddress(String PlaceAddress) {
         this.PlaceAddress = PlaceAddress;
     }
 
@@ -30,7 +33,7 @@ class Place {
         return PlaceName;
     }
 
-    public void setPlaceName(String PlaceName) {
+    private void setPlaceName(String PlaceName) {
         this.PlaceName = PlaceName;
     }
 
@@ -38,7 +41,7 @@ class Place {
         return PlaceSmallDescription;
     }
 
-    public void setPlaceSmallDescription(String PlaceSmallDescription) {
+    private void setPlaceSmallDescription(String PlaceSmallDescription) {
         this.PlaceSmallDescription = PlaceSmallDescription;
     }
 
@@ -46,7 +49,7 @@ class Place {
         return PlaceThumb;
     }
 
-    public void setPlaceThumb(int PlaceThumb) {
+    private void setPlaceThumb(int PlaceThumb) {
         this.PlaceThumb = PlaceThumb;
     }
 
@@ -54,7 +57,7 @@ class Place {
         return PlacePictures;
     }
 
-    public void setPlacePictures(int[] PlacePictures) {
+    private void setPlacePictures(int[] PlacePictures) {
         this.PlacePictures = PlacePictures;
     }
 
@@ -63,7 +66,7 @@ class Place {
         return PlaceFullDescription;
     }
 
-    public void setPlaceFullDescription(String PlaceFullDescription) {
+    private void setPlaceFullDescription(String PlaceFullDescription) {
         this.PlaceFullDescription = PlaceFullDescription;
     }
 

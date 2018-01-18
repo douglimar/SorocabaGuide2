@@ -145,7 +145,7 @@ ADDED from /home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/sr
 	android:name
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/AndroidManifest.xml:28:27-74
 activity#br.com.ddmsoftware.sorocabaguide.DetailsActivity
-ADDED from /home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/AndroidManifest.xml:31:9-34:68
+ADDED from /home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/AndroidManifest.xml:31:9-34:58
 	android:label
 		ADDED from /home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/AndroidManifest.xml:33:13-59
 	android:theme

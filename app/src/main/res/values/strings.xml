@@ -38,15 +38,11 @@
 
     <string name="action_settings">Settings</string>
 
-    <string name="title_activity_splash">SplashActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_details">DetailsActivity</string>
     <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="parques_e_pracas">Parques e Praças</string>
     <string name="cultura_e_entretenimento">Cultura e Entretenimento</string>
     <string name="monumentos_e_locais_historicos">Monumentos e Locais Históricos</string>
-    <string name="compras">Compras</string>
     <string name="teatro_arena_name">"Teatro de Arena"</string>
     <string name="teatro_arena_small_desc">"O Teatro de Arena anexo ao Teatro Municipal Teotônio Vilela."</string>
     <string name="teatro_arena_full_desc">
@@ -505,6 +501,16 @@
     <string name="stabarbara_smalldescr">Parque municipal em Sorocaba, São Paulo</string>
     <string name="stabarbara_fulldescr">O parque está localizado entre os bairros Júlio de Mesquita Filho e Jd. Santa Bárbara (pistas de caminhada "                  "em cimento e em saibro, com percurso total de 1.300m. O trajeto possui iluminação própria, placas de demarcação do percurso, "                  "além de uma ilha de alongamento e equipamentos de ginástica, pista de skate e campo de futebol);</string>
     <string name="stabarbara_address">Rua Nilza Neves Zuliani - Jardim Santa Barbara, Sorocaba - SP, 18053-360</string>
+    <string name="pontos_de_interesse">Pontos de Interesse</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_description">Item Description</string>
+    <string name="fotos_do_local">Fotos do local:</string>
+    <string name="clique_sobre_a_imagem_para_visualizar_mais_fotos_do_local">(Clique sobre a imagem para visualizar mais fotos do local)</string>
+    <string name="descricao_do_local">Descrição do Local:</string>
+    <string name="full_description">Full Description</string>
+    <string name="endereco">Endereço:</string>
+    <string name="localizar_no_google_maps">Localizar no Google Maps</string>
+    <string name="xxxxx">XXXXX</string>
 
 
 </resources>

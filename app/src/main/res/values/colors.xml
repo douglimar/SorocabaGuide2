@@ -8,8 +8,5 @@
     <color name="black_overlay">#66000000</color>
     <color name="lightBlue">#60c3d7</color>
     <color name="colorBlueGray">#239aa7</color>
-    <color name="lightGray">#64c1bdbd</color>
-    <color name="lightBlue2">#b9e5ed</color>
-    <color name="lightRed">#60c3d7</color>
-    <color name="lightYellow">#60c3d7</color>
+
 </resources>

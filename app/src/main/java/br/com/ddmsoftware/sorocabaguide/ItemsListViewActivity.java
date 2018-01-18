@@ -28,8 +28,8 @@ public class ItemsListViewActivity extends AppCompatActivity {
 
         Intent intent = getIntent();
 
-        String sType;
-        sType = (String) intent.getExtras().get("Type");
+        //noinspection ConstantConditions
+        String sType = (String) intent.getExtras().get("Type");
 
         getItemsList(sType);
 

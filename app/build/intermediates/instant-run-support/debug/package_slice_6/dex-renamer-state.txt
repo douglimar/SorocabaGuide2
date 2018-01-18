@@ -1,4 +1,4 @@
-#Wed Jan 03 11:15:27 BRST 2018
-base.0=/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/transforms/dexMerger/debug/26
+#Wed Jan 17 22:26:29 BRST 2018
+base.0=/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/transforms/dexMerger/debug/7
 path.0=classes.dex
 renamed.0=classes.dex

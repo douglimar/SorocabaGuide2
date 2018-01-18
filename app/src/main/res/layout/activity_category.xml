@@ -16,7 +16,7 @@
         android:layout_margin="5sp"
         android:layout_weight="1"
         android:background="@drawable/bg_button_parks2"
-        android:drawableLeft="@drawable/ic_parks"
+        android:drawableStart="@drawable/ic_parks"
         android:elevation="5sp"
         android:gravity="start|center"
         android:padding="10dp"
@@ -43,7 +43,7 @@
         android:textAllCaps="false"
         android:gravity="start|center"
         android:background="@drawable/bg_button_culture2"
-        android:drawableLeft="@drawable/ic_local_city"
+        android:drawableStart="@drawable/ic_local_city"
         tools:targetApi="lollipop" />
 
     <Button
@@ -60,7 +60,7 @@
         android:textAllCaps="false"
         android:gravity="start|center"
         android:background="@drawable/bg_button_historicalplaces"
-        android:drawableLeft="@drawable/ic_places"
+        android:drawableStart="@drawable/ic_places"
         android:text="@string/monumentos_e_locais_historicos"/>
 
 <!--

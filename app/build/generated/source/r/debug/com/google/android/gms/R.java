@@ -27,14 +27,14 @@ public final class R {
         public static final int google_play_services_version = 0x7f090007;
     }
     public static final class string {
-        public static final int common_google_play_services_unknown_issue = 0x7f0d0051;
-        public static final int s1 = 0x7f0d00a5;
-        public static final int s2 = 0x7f0d00a6;
-        public static final int s3 = 0x7f0d00a7;
-        public static final int s4 = 0x7f0d00a8;
-        public static final int s5 = 0x7f0d00a9;
-        public static final int s6 = 0x7f0d00aa;
-        public static final int s7 = 0x7f0d00ab;
+        public static final int common_google_play_services_unknown_issue = 0x7f0d0052;
+        public static final int s1 = 0x7f0d00ab;
+        public static final int s2 = 0x7f0d00ac;
+        public static final int s3 = 0x7f0d00ad;
+        public static final int s4 = 0x7f0d00ae;
+        public static final int s5 = 0x7f0d00af;
+        public static final int s6 = 0x7f0d00b0;
+        public static final int s7 = 0x7f0d00b1;
     }
     public static final class style {
         public static final int Theme_IAPTheme = 0x7f0e0138;

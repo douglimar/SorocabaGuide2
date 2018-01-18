@@ -18,7 +18,7 @@ import java.util.ArrayList;
 public class ItemListBaseAdapter extends BaseAdapter {
 
     private static ArrayList<Place> placeArrayList;
-    private LayoutInflater layoutInflater;
+    private final LayoutInflater layoutInflater;
 
     public ItemListBaseAdapter(Context context, ArrayList<Place> myListPlaces) {
 
