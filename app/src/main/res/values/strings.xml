@@ -36,9 +36,8 @@
         "indústrias. \n\nAs áreas produtivas de Sorocaba e Campinas foram as principais responsáveis "
         "pela descentralização industrial da região metropolitana de São Paulo entre os anos de 2000 a 2010."</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Configurações</string>
 
-    <string name="title_activity_details">DetailsActivity</string>
     <string name="banner_ad_unit_TESTE" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
     <string name="parques_e_pracas">Parques e Praças</string>
     <string name="cultura_e_entretenimento">Cultura e Entretenimento</string>
@@ -48,7 +47,7 @@
     <string name="teatro_arena_full_desc">
         "O Teatro de Arena fica localizado ao lado do Teatro Municipal " 
         "Teotônio Vilela com área externa, o qual está submerso a cinco metros abaixo do lago que circunda o complexo."</string>
-    <string name="teatro_arena_address">"Av. Eng. Carlos Reinaldo Mendes, s/n - Alto da Boa Vista\n\n" 
+    <string name="teatro_arena_address" translatable="false">"Av. Eng. Carlos Reinaldo Mendes, s/n - Alto da Boa Vista\n\n"
         "(15) 3238 2222</string>
     <string name="tmtv_name">Teatro Municipal Teotônio Vilela</string>
     <string name="tmtv_small_desc">Teatro Municipal Teotônio Vilela (TMTV)</string>
@@ -63,17 +62,17 @@
         "com compra de novos equipamentos e mobiliário, além reforma em sua infraestrutura. Atualmente o Teatro "
         "Teotônio Vilela, conta com 414 lugares (sendo 4 para obesos e 4 para cadeirantes) distribuídos em "
         "plateia geral e um elegante foyer para a recepção dos espectadores e equipamentos cênicos de última geração."</string>
-    <string name="tmtv_address">Av. Eng. Carlos Reinaldo Mendes, s/n - Alto da Boa Vista   (15) 3238 2222</string>
+    <string name="tmtv_address" translatable="false">Av. Eng. Carlos Reinaldo Mendes, s/n - Alto da Boa Vista   (15) 3238 2222</string>
 
     <string name="gabinete_name">Gabinete de Leitura Sorocabano</string>
     <string name="gabinete_smalldesc">Umas das casas de cultura mais importantes do Brasil</string>
-    <string name="gabinete_address">Rua São Bento - Praça Coronel Fernando Prestes, 21 – Centro</string>
+    <string name="gabinete_address" translatable="false">Rua São Bento - Praça Coronel Fernando Prestes, 21 – Centro</string>
     <string name="gabinete_fulldescr">"Considerado hoje um dos principais acervos do País, com mais de 50 mil títulos entre jornais, livros, "
         "documentos, fotos e até papiro. Além de jornais cujos exemplares só se encontram no Gabinete, livros datados até de "
         "1600 e nas mais diversas línguas, outros folheados a ouro. Há ainda outras preciosidades, como uma série de "
         "dois retratos do Imperador Dom Pedro ll pintados pelo inglês Stuart. Além do que está em Sorocaba, há um outro "
         "retrato que consta do acervo do Museu Imperial, no Rio de Janeiro."</string>
-    <string name="sesc_name">SESC Sorocaba</string>
+    <string name="sesc_name" translatable="false">SESC Sorocaba</string>
     <string name="sesc_smalldesc">Programas esportivos, educacionais, culturais e de saúde</string>
     <string name="sesc_fulldesc">"Inauguração: 1/9/2012\n" 
     "arquiteto responsável: Sérgio Teperman\n" 
@@ -102,7 +101,7 @@
     "Sala de Oficinas \n" 
     "Área de Exposição\n"
         "Convivência" </string>
-    <string name="sesc_address">"Rua Barão de Piratininga, 555 - Jardim Faculdade\n\n(15) 3332 9933"</string>
+    <string name="sesc_address" translatable="false">"Rua Barão de Piratininga, 555 - Jardim Faculdade\n\n(15) 3332 9933"</string>
 
     <string name="sesi_name">SESI Sorocaba / Teatro SESI – Sorocaba</string>
     <string name="sesi_smalldesc">Serviço Social da Indústria</string>
@@ -120,7 +119,7 @@
         "através de convênio firmado com a Prefeitura Municipal. A unidade oferece soluções para as empresas "
         "industriais brasileiras por meio de uma rede integrada, que engloba atividades de educação, "
         "segurança e saúde do trabalho, cultura e qualidade de vida."</string>
-    <string name="sesi_address">Rua Duque de Caxias, 494 - Mangal  (15) 3388 0444</string>
+    <string name="sesi_address" translatable="false">Rua Duque de Caxias, 494 - Mangal  (15) 3388 0444</string>
 
     <string name="macs_name">MACS – Museu de Arte Contemporânea de Sorocaba</string>
     <string name="macs_smalldesc">Um espaço plural, cultural e educativo criado especialmente para você!</string>
@@ -134,7 +133,7 @@
         "O principal objetivo do MACS é ser uma instituição cultural de excelência, com visão prospectiva, e "
         "capaz de operar no mesmo nível de qualidade das mais destacadas instituições congêneres do país. Sua programação "
         "tem forte preocupação educativa e abarca as mais variadas tendências artísticas e contemporâneas."</string>
-    <string name="macs_address">Av. Dr. Afonso Vergueiro, 280, Centro  CEP 18035-370 – Sorocaba-SP  Telefone: 55 15 3233-1692</string>
+    <string name="macs_address">Av. Dr. Afonso Vergueiro, 280, Centro  CEP 18035–370 – Sorocaba-SP  Telefone: 55 15 3233-1692</string>
 
     <string name="oficina_name">Oficina Cultural Grande Otelo</string>
     <string name="oficina_smalldesc">Espaços Culturais do Governo de São Paulo.</string>
@@ -205,7 +204,7 @@
     <string name="cineplay_name">Cinemas Cineplay</string>
     <string name="cineplay_smalldescr">Rede de Cinemas do Sorocaba Shopping</string>
     <string name="cineplay_fulldescr">"Cinema digital com 7 salas de assentos numerados, projeção 3 e 2D, e 1 sala tradicional de filme de rolo."</string>
-    <string name="cineplay_address">"Sorocaba Shopping  Av. Dr. Afonso Vergueiro, 1700 (15) 3231-7070</string>
+    <string name="cineplay_address">"Sorocaba Shopping  Av. Dr. Afonso Vergueiro, 1700 (15) 3231–7070</string>
     <string name="cinearaujo_name">Cine ARAÚJO</string>
     <string name="cinearaujo_smalldescr">Rede de cinemas do Shopping Cidade</string>
     <string name="cinearaujo_fulldescr">Rede de cinemas do Shopping Cidade de Sorocaba</string>
@@ -213,11 +212,11 @@
     <string name="multiplex_name">Multiplex Patio Cianê</string>
     <string name="multiplex_smalldescr">Rede de cinemas do Shopping Patio Cianê</string>
     <string name="multiplex_fulldescr">Rede de cinemas do Shopping Patio Cianê</string>
-    <string name="multiplex_address">Shopping Patio Cianê Av. Dr. Afonso Vergueiro, 823 (15) 3333-3333</string>
+    <string name="multiplex_address">Shopping Patio Cianê Av. Dr. Afonso Vergueiro, 823 (15) 3333–3333</string>
     <string name="cinepolis_name">Cinépolis Iguatemi</string>
     <string name="cinepolis_smalldescr">Rede de cinemas do Shopping Iguatemi Esplanada</string>
     <string name="cinepolis_fulldescr">"Rede de cinemas de luxo com poltronas de couro reclináveis, coqueteis, alimentos sofisticados e serviço de garçom."</string>
-    <string name="cinepolis_address">Av. Gisele Costantino, 1850   Telefone: (15) 3243-9545</string>
+    <string name="cinepolis_address">Av. Gisele Costantino, 1850   Telefone: (15) 3243–9545</string>
     <string name="scarpa_name">Palacete Scarpa</string>
     <string name="scarpa_smalldescr">Um dos mais importantes patrimônios históricos da cidade</string>
     <string name="scarpa_fulldescr">O prédio em estilo neoclássico com linhas greco-romanas possui um amplo Espaço "
@@ -231,7 +230,7 @@
         "Ao longo das "
         "décadas, o prédio deixou de ser banco e já abrigou um hotel, Correios e a Delegacia Regional Tributária, "
         "da Secretaria Estadual da Fazenda."</string>
-    <string name="scarpa_address">Endereço: Rua Souza Pereira, 448, Centro Telefone: (15) 3211-2911</string>
+    <string name="scarpa_address">Endereço: Rua Souza Pereira, 448, Centro Telefone: (15) 3211–2911</string>
     <string name="saobento_name">Mosteiro de São Bento</string>
     <string name="saobento_smalldescr">Primeira igreja da cidade de Sorocaba, fundada em 1.660</string>
     <string name="saobento_fulldescr">"Foi a primeira igreja de Sorocaba, em torno da qual nasceu a bela cidade de hoje."
@@ -363,7 +362,7 @@
         "Teares, Máquina de fazer pão, Telhas, Trole (Carroça), Bonde, Escada de Bombeiros, Tachos de Óleo e um Ford 1929.\n"
         "A principal finalidade do Museu Histórico Sorocabano é colecionar, conservar e apresentar em exposições para fins de estudo, educação, "
         "contemplação e recreação, objetos, pinturas, esculturas e documentos de significação histórica para a cidade de Sorocaba e sua região."</string>
-    <string name="museu_address">Rua Theodoro Kaisel, 883 Vila Hortência - CEP 18020-268  Telefone:(15) 3227-2825</string>
+    <string name="museu_address">Rua Theodoro Kaisel, 883 Vila Hortência – CEP 18020-268  Telefone:(15) 3227-2825</string>
     <string name="usina_name">Usina Cultural Ettore Marangoni</string>
     <string name="usina_smalldescr">Principal Museu Municipal de Sorocaba</string>
     <string name="usina_fulldescr">"Em 1909, em estilo inglês, foi inaugurado o prédio para abrigar a usina geradora de energia a diesel, "
@@ -376,7 +375,7 @@
         "Com esta finalidade, foi inaugurado oficialmente no ano de 2000, mas passou por uma restauração sete anos depois,"
         " adequando-se para receber espetáculos múltiplos. Tombado pelo Conselho de Patrimônio Histórico Municipal em 1996, "
         "o majestoso prédio está à margem direita da Av. Dom Aguirre, sentido bairro, e chama a atenção principalmente à noite, pela sua iluminação especial."</string>
-    <string name="usina_address">R. Padre Madureira - Além Ponte, Sorocaba - SP, 18013-210</string>
+    <string name="usina_address">R. Padre Madureira – Além Ponte, Sorocaba - SP, 18013-210</string>
     <string name="estacao_name">Estação Ferroviária de Sorocaba</string>
     <string name="estacao_smalldescr">Estação Ferroviária de Sorocaba e Museu Ferroviário</string>
     <string name="estacao_fulldescr">"A Estação ferroviária de Sorocaba foi inaugurada em 10 de julho de 1875 pela Estrada de "
@@ -397,7 +396,7 @@
     <string name="pq_aguas_name">Parque das Águas</string>
     <string name="pq_aguas_smalldescr">Parque municipal em Sorocaba, São Paulo</string>
     <string name="pq_aguas_fulldescr">O Parque Maria Barbosa Silva, mais conhecido como Parque das Águas, "                  "é cenário de algumas das principais atrações culturais, artísticas e de lazer da cidade, "                  "que chegam a reunir mais de 20 mil pessoas por dia.\n\n "                  "O Parque das Águas possui uma área total de 162 mil metros quadrados com pista de caminhada, "                  "ciclovia, pista de skate, playground, quadra de areia, anfiteatro, praça de eventos e "                  "sistemas paisagístico, urbanístico e de segurança e é aberto 24 horas.\n\n"                  ""                  "Esse parque foi construído na área de antigas lagoas de exploração de areia e argila.\n"                  "O espaço oferece um dos maiores palcos ao ar livre da cidade, ciclovia, anfiteatro de arena, "                  "playground, pista de skate, circuito infantil, lago central com fontes, área verde com gramado, árvores, plantas, "                  "flores e arbustos, pista de caminhada, deque de madeira, bancos, sanitários, campos de futebol, "                  "quadra poliesportiva e um Núcleo de Segurança Comunitária da Guarda Civil Municipal, com funcionamento 24 horas.\n\n"                  "Recebe todos os anos eventos religiosos das mais diversas congregações, a Festa Junina de Sorocaba, "                  "a Semana do Tropeiro, desfiles escolares, entre outros eventos.</string>
-    <string name="pq_aguas_address">R. Antônio Joaquim Santana, 714 - Jardim Abaete, Sorocaba - SP, 18081-295  Telefone: (15) 3227-1173</string>
+    <string name="pq_aguas_address">R. Antônio Joaquim Santana, 714 – Jardim Abaete, Sorocaba - SP, 18081-295  Telefone: (15) 3227-1173</string>
     <string name="chicomendes_name">Parque Natural Chico Mendes</string>
     <string name="chicomendes_smalldescr">É um parque municipal da cidade de Sorocaba.</string>
     <string name="chicomendes_fulldescr">"O Parque Natural dos Esportes Chico Mendes foi inaugurado em 22 de dezembro de 1977, "
@@ -422,7 +421,7 @@
         "\n"
         "Possui uma grande diversidade de animais, sendo mais de 1400 espécimes de mais de 300 espécies animais, entre "
         "mamíferos, aves e répteis."</string>
-    <string name="quinzinho_address">R. Teodoro Kaisel, 883 - Vila Hortência, Sorocaba - SP, 18020-268 Telefone: (15) 3227-5454</string>
+    <string name="quinzinho_address">R. Teodoro Kaisel, 883 – Vila Hortência, Sorocaba - SP, 18020-268 Telefone: (15) 3227-5454</string>
     <string name="flona_name">Floresta Nacional de Ipanema</string>
     <string name="flona_smalldescr">Reserva Florestal entre as cidades de Sorocaba, Iperó e Araçoiaba</string>
     <string name="flona_fulldescr">"Localizada a 120 km da cidade de São Paulo e abrangendo parte dos municípios de Iperó, "
@@ -447,12 +446,12 @@
         "\n"
         "O acesso e a circulação entre os monumentos são feitos por via pavimentada ou por áreas gramadas. "
         "Há áreas de estacionamento no Centro de Visitantes e próximo à Casa das Armas Brancas."</string>
-    <string name="flona_address">Rodovia Sorocaba Iperó, Km 19,5, S/N - Fazenda Ipanema, Iperó - SP, 18190-000</string>
+    <string name="flona_address">Rodovia Sorocaba Iperó, Km 19,5, S/N – Fazenda Ipanema, Iperó - SP, 18190-000</string>
 
     <string name="paco_name">Parque Do Paço Municipal</string>
     <string name="paco_smalldescr">Parque municipal em Sorocaba, São Paulo</string>
     <string name="paco_fulldescr">O Palácio dos Tropeiros, sede da Prefeitura de Sorocaba, acabou se tornando uma área de lazer "                  "escolhida pela população desde sua inauguração, em 1981. Muitas famílias costumam ir ao local para passear, caminhar, "                  "andar de bicicleta, soltar a pipa, além de alimentar os patos, marrecos, cisnes, gansos e peixes.\n"                  "\n"                  "A área no entorno do prédio, desde 2007, passou a ser denominada \\"Parque do Paço Municipal\\", onde se encontram a "                  "Pista de Caminhada \\"Odilon Araújo\\", ciclovia, equipamentos de ginástica e um playground, com brinquedos, caixas "                  "de areia e fonte de água interativa.\\"\n</string>
-    <string name="paco_address">Av. Engenheiro Carlos Reinaldo Mendes, 3041 Sorocaba, SP, 2711-3201</string>
+    <string name="paco_address">Av. Engenheiro Carlos Reinaldo Mendes, 3041 Sorocaba, SP, 2711–3201</string>
     <string name="jdbotanico_name">Jardim Botânico Irmãos Villas Bôas</string>
     <string name="jdbotanico_smalldescr">Jardim botânico constituído por coleções de plantas vivas</string>
     <string name="jdbotanico_fulldecr">"O Jardim Botânico está estruturado para ser um importante centro de conservação da biodiversidade  "
@@ -465,7 +464,7 @@
         "Sua construção foi projetada considerando os seguintes valores de sustentabilidade: ambiental, o social e o econômico.  "
         "Assim, foram utilizados materiais e soluções técnicas que promoveram a economia de recursos, a redução da poluição, "
         "a melhoria da qualidade do ar e do solo."</string>
-    <string name="jdbotanico_address">R. Miguel Montoro Lozano, 340 - Jardim Iguatemi, Sorocaba - SP, 18085-767 Telefone: (15) 3235-1130</string>
+    <string name="jdbotanico_address">R. Miguel Montoro Lozano, 340 – Jardim Iguatemi, Sorocaba - SP, 18085-767 Telefone: (15) 3235-1130</string>
     <string name="campolim_name">Parque do Campolim | Carlos Alberto de Souza</string>
     <string name="campolim_smalldescr">Espaço arborizado com riacho, lago e trilhas para caminhadas e bicicletas, além de eventos ao ar livre.</string>
     <string name="campolim_fulldescr">"O parque projetado numa área de bacia de contenção, é um dos belos cartões-postais da cidade. "
@@ -476,7 +475,7 @@
         "\n"
         "Encravado no bairro do Campolim, em seu entorno se encontram diversos restaurantes, sucarias, "
         "casas noturnas e centros comerciais."</string>
-    <string name="campolim_address">Av. Antonio Carlos Comitre, Parque Campolim, Sorocaba - SP, 18047-645</string>
+    <string name="campolim_address">Av. Antonio Carlos Comitre, Parque Campolim, Sorocaba – SP, 18047-645</string>
     <string name="ipiranga_name">Parque Maestro Nílson Lombardi (Ipiranga)</string>
     <string name="ipiranga_smalldescr">Parque em Sorocaba, São Paulo</string>
     <string name="ipiranga_fulldescr">"Parque aberto com grande anfiteatro para 1.200 pessoas, ciclovia, pista de skate, duas quadras poliesportivas, "                  "pista de caminhada, espaços para alongamento e exercícios físicos "                  "e playground com 14 brinquedos (gangorra, escorregadores, gira-gira, balanços, escalada e fonte interativa);"</string>
@@ -484,23 +483,23 @@
     <string name="agua_vermelha_name">Parque Natural da Água Vermelha</string>
     <string name="agua_vermelha_smalldescr">Espaço verde com jardins, árvores e lagos, além de parque infantil, anfiteatro, aquário e cursos ambientais.</string>
     <string name="agua_vermelha_fulldescr">"Inaugurado em 1990, o parque da Água Vermelha oficialmente se chama Parque  \\"João Câncio Pereira\\" e é um parque encravado "                  "no bairro residencial Jardim Europa, e possui 3 belíssimos lagos, que são a maior atração, além de uma área verde onde muitos animais"                  " vivem, como pica-paus, garças, cágados e uma variedade de peixes.\n"                  "\n"                  "A estrutura conta com playground, aquário, ponte, biblioteca, viveiro de mudas, anfiteatro, aquário, quiosques, cursos de "                  "jardinagem, reciclagem de materiais e programas de educação ambiental e de visitas monitoradas para crianças, adolescentes, "                  "adultos e idosos."</string>
-    <string name="agua_vermelha_address">R. Romania, 150 - Jardim Europa, Sorocaba - SP, 18045-040 Telefone: (15) 3221-6643</string>
+    <string name="agua_vermelha_address">R. Romania, 150 – Jardim Europa, Sorocaba - SP, 18045-040 Telefone: (15) 3221-6643</string>
     <string name="biquinha_name">Parque Natural Municipal da Biquinha</string>
     <string name="biquinha_smalldescr">Parque municipal em Sorocaba, São Paulo</string>
     <string name="biquinha_fulldecr">"O Parque da Biquinha é  um pequeno parque inaugurado em 1976 e possui um pequeno com lago, várias "                  "nascentes e aves, além de plantas e árvores de diversas regiões brasileiras. \n"                  "\n"                  "Hoje o parque se encontra em uma área de 27.000 m2 muito bem localizada próximo ao centro da cidade.\n"                  "\n"                  "Essa área de topografia acidentada, é privilegiada por fazer parte de uma bacia hidrográfica com nascentes "                  "e lago que embelezam a paisagem."</string>
-    <string name="biquinha_address">Av. Comendador Pereira Inácio, 1112 - Jardim Vergueiro, Sorocaba - SP, 18030-005  Telefone: (15) 3224-1997</string>
+    <string name="biquinha_address">Av. Comendador Pereira Inácio, 1112 – Jardim Vergueiro, Sorocaba - SP, 18030-005  Telefone: (15) 3224-1997</string>
     <string name="ourofino_name">Parque Natural Ouro Fino</string>
     <string name="ourofino_smalldescr">Parque municipal em Sorocaba, São Paulo</string>
     <string name="ourofino_fulldescr">"Considerado um dos parques ecológicos mais bonitos de Sorocaba, com  96 mil m² de área verde "                  "aproximadamente, a comunidade e as escolas podem aproveitar melhor o espaço do Parque Ouro Fino, que fica no bairro que "                  "tem o mesmo nome, na Zona Oeste de Sorocaba.\n"                  "\n"                  "Ele é um dos parques ecológicos mais bonitos e ricos da cidade, onde ocorre o encontro de dois ecossistemas da região: "                  "a Mata Atlântica e o Cerrado.\n"                  "\n"                  "Possui playground com gangorras, escorregador e balanço, produzidos com eucaliptos tratados e de origem legal. \n"                  "\n"                  "O parque passou por um processo de revitalização, ganhou gramado, calçadas mais largas, gradil novo e Iluminação, "                  "garantindo maior segurança ao local. No parque ainda há atrativos diversos, como trilhas ecológicas e mesas para "                  "piquenique.\n"                  "\n"                  "Outro detalhe importante é que o Parque Ouro Fino possui a nascente modelo de Sorocaba. Georreferenciada e cadastrada "                  "pela Sema, a nascente foi escolhida pela sua peculiar situação de conservação e aspectos relevantes para a Educação "                  "Ambiental."</string>
-    <string name="ourofino_address">R. Alexandre Caldini, 265 - Parque Ouro Fino, Sorocaba - SP, 18055-710 Telefone: (15) 3222-8504</string>
+    <string name="ourofino_address">R. Alexandre Caldini, 265 – Parque Ouro Fino, Sorocaba - SP, 18055-710 Telefone: (15) 3222-8504</string>
     <string name="maru_name">Parque Kasato Maru</string>
     <string name="maru_smalldescr">Parque em Sorocaba, São Paulo</string>
     <string name="maru_fulldescr">"O Parque Kasatu Maru é um parque bem pequeno, encravado no bairro do Campolim em Sorocaba e "                  "com uma área de aproximadamente 8 mil m². \n"                  "\nFoi inaugurado no ano 2008, em homenagem ao centenário da imigração japonesa no Brasil. \n"                  "O parque possui um pequeno lago natural e um tradicional Torii, que é um portal vermelho característico da religião "                  "xintoísta e que simboliza a divisão entre o mundos humano e divino e que serve como um elo entre os mundo. "                  "O nome do parque é em homenagem à embarcação Kasatu Maru, que trouxe os primeiros imigrantes japoneses para o Brasil "                  "no início do século 20.\n"                  "\n"                  "No interior do parque ainda existe uma ponte em estilo japonês (Taiko Bashi), pista de caminhada, plantas típicas do "                  "oriente, gramado, cascata de pedras, além de um globo terrestre que representa o caminho percorrido pelo Kasatu Maru "                  "entre o Japão e o Brasil.\n"                  "\n"                  "Outro destaque é a bela iluminação em estilo japonês, com luminárias e até o ponto de ônibus estilizado."</string>
-    <string name="maru_address">Endereço: 95, Av. Antônio Carlos Comitre, 59 - Jardim Faculdade, Sorocaba - SP Telefone: (15) 3231-3015</string>
+    <string name="maru_address">Endereço: 95, Av. Antônio Carlos Comitre, 59 – Jardim Faculdade, Sorocaba - SP Telefone: (15) 3231-3015</string>
     <string name="stabarbara_name">Parque Miguel Gregório de Oliveira (Parque Sta Barbara)</string>
     <string name="stabarbara_smalldescr">Parque municipal em Sorocaba, São Paulo</string>
     <string name="stabarbara_fulldescr">O parque está localizado entre os bairros Júlio de Mesquita Filho e Jd. Santa Bárbara (pistas de caminhada "                  "em cimento e em saibro, com percurso total de 1.300m. O trajeto possui iluminação própria, placas de demarcação do percurso, "                  "além de uma ilha de alongamento e equipamentos de ginástica, pista de skate e campo de futebol);</string>
-    <string name="stabarbara_address">Rua Nilza Neves Zuliani - Jardim Santa Barbara, Sorocaba - SP, 18053-360</string>
+    <string name="stabarbara_address">Rua Nilza Neves Zuliani – Jardim Santa Barbara, Sorocaba - SP, 18053-360</string>
     <string name="pontos_de_interesse">Pontos de Interesse</string>
     <string name="item_name">Item Name</string>
     <string name="item_description">Item Description</string>
@@ -511,6 +510,7 @@
     <string name="endereco">Endereço:</string>
     <string name="localizar_no_google_maps">Localizar no Google Maps</string>
     <string name="xxxxx">XXXXX</string>
+    <string name="title_activity_details">Detalhes</string>
 
 
 </resources>

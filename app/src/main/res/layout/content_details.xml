@@ -62,7 +62,7 @@ tools:showIn="@layout/activity_details">
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/text_margin"
-                android:textSize="10sp"
+                android:textSize="12sp"
                 android:textStyle="italic"
                 android:text="@string/clique_sobre_a_imagem_para_visualizar_mais_fotos_do_local" />
 

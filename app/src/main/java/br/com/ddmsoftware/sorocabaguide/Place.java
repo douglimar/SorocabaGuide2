@@ -101,7 +101,7 @@ class Place {
 
         iPlacePictures = new int[]{R.drawable.pic_chico_mendes1, R.drawable.pic_chico_mendes2, R.drawable.pic_chico_mendes3,
                 R.drawable.pic_chico_mendes4, R.drawable.pic_chico_mendes5, R.drawable.pic_chico_mendes6,
-                R.drawable.pic_chico_mendes7, R.drawable.pic_chico_mendes8, R.drawable.pic_chico_mendes9, };
+                R.drawable.pic_chico_mendes7, R.drawable.pic_chico_mendes8 };
         place.setPlacePictures(iPlacePictures);
 
         listPlaces.add(place);
