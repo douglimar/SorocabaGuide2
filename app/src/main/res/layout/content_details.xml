@@ -86,7 +86,7 @@ tools:showIn="@layout/activity_details">
     <com.google.android.gms.ads.AdView
         android:id="@+id/adViewDetails1"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        ads:adUnitId="@string/banner_ad_unit_id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
@@ -168,7 +168,7 @@ tools:showIn="@layout/activity_details">
     <com.google.android.gms.ads.AdView
         android:id="@+id/adViewDetails2"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_TESTE"
+        ads:adUnitId="@string/banner_ad_unit_id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"

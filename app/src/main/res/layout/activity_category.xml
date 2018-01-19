@@ -23,7 +23,7 @@
         android:text="@string/parques_e_pracas"
         android:textAllCaps="false"
         android:textColor="#fff"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         tools:targetApi="lollipop" />
 
@@ -38,7 +38,7 @@
         android:padding="10dp"
         android:elevation="5sp"
         android:textColor="#fff"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:textAllCaps="false"
         android:gravity="start|center"
@@ -55,7 +55,7 @@
         android:padding="10dp"
         android:elevation="10dp"
         android:textColor="#fff"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textStyle="bold"
         android:textAllCaps="false"
         android:gravity="start|center"
@@ -87,6 +87,6 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         ads:adSize="BANNER"
-        ads:adUnitId="@string/banner_ad_unit_TESTE" />
+        ads:adUnitId="@string/banner_ad_unit_id" />
 
 </LinearLayout>

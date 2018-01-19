@@ -16,8 +16,11 @@ import android.widget.TextView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 public class DetailsActivity extends AppCompatActivity {
+
+    private FirebaseAnalytics mFirebaseAnalytics;
 
     private int iArray_ItemPicture[];
     private int iControlImageArray = 0;
@@ -29,6 +32,9 @@ public class DetailsActivity extends AppCompatActivity {
         setContentView(R.layout.activity_details);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        // Obtain the FirebaseAnalytics instance.
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
         CollapsingToolbarLayout toolbar_layout = findViewById(R.id.toolbar_layout);
 
@@ -67,6 +73,9 @@ public class DetailsActivity extends AppCompatActivity {
         imgItemPicture.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+                LogFirebirdEvents("1", "Details_Click");
+
 
                 iControlImageArray++;
 
@@ -140,4 +149,14 @@ public class DetailsActivity extends AppCompatActivity {
 
     }
 
+
+
+    public void LogFirebirdEvents(String id, String name) {
+
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, id);
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, name);
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+    }
 }

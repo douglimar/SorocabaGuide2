@@ -11,10 +11,13 @@ import android.widget.ListView;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.util.ArrayList;
 
 public class ItemsListViewActivity extends AppCompatActivity {
+
+    private FirebaseAnalytics mFirebaseAnalytics;
 
     public static ArrayList<Place> placeArrayList;
     private ListView listView;
@@ -23,6 +26,9 @@ public class ItemsListViewActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_items_list_view);
+
+        // Obtain the FirebaseAnalytics instance.
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
 
         listView = findViewById(R.id.myListView);
 
@@ -36,6 +42,8 @@ public class ItemsListViewActivity extends AppCompatActivity {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+
+                LogFirebirdEvents("1", "OnItemClick");
                 Intent intent = new Intent(getApplicationContext(), DetailsActivity.class);
 
                 intent.putExtra("Position", position);
@@ -75,6 +83,7 @@ public class ItemsListViewActivity extends AppCompatActivity {
 
             case "Park": {
 
+                LogFirebirdEvents("2", "Park");
                 //linearLayout.setBackgroundColor(getResources().getColor(R.color.lightGray));
                 linearLayout.setBackground(getResources().getDrawable(R.drawable.bg_button_parks2));
 
@@ -86,6 +95,7 @@ public class ItemsListViewActivity extends AppCompatActivity {
 
             case "Culture": {
 
+                LogFirebirdEvents("3", "Culture");
                 //linearLayout.setBackgroundColor(getResources().getColor(R.color.lightBlue2));
                 linearLayout.setBackground(getResources().getDrawable(R.drawable.bg_button_culture2));
 
@@ -97,6 +107,8 @@ public class ItemsListViewActivity extends AppCompatActivity {
 
             case "Historical": {
 
+                LogFirebirdEvents("4", "Historical");
+
                 //linearLayout.setBackgroundColor(getResources().getColor(R.color.lightBlue2));
                 linearLayout.setBackground(getResources().getDrawable(R.drawable.bg_button_historicalplaces));
 
@@ -107,5 +119,16 @@ public class ItemsListViewActivity extends AppCompatActivity {
             }
         }
     }
+
+
+    public void LogFirebirdEvents(String id, String name) {
+
+        Bundle bundle = new Bundle();
+        bundle.putString(FirebaseAnalytics.Param.ITEM_ID, id);
+        bundle.putString(FirebaseAnalytics.Param.ITEM_NAME, name);
+        bundle.putString(FirebaseAnalytics.Param.CONTENT_TYPE, "image");
+        mFirebaseAnalytics.logEvent(FirebaseAnalytics.Event.SELECT_CONTENT, bundle);
+    }
+
 
 }
