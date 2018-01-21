@@ -1,15 +1,15 @@
 [
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_campolim4.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_campolim4.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_map_black_24dp.png.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_map_black_24dp.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_map_black_24dp.png.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_map_black_24dp.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_campolim4.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_campolim4.jpg"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -44,12 +44,12 @@
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
-        "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_biblioteca_municipal.png.flat",
         "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/biblioteca_municipal.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_bibliotaca_infantil2.jpg.flat",
@@ -108,16 +108,16 @@
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_mosteiro_saobento2.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/mosteiro_saobento2.jpg"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_ciane2.jpg.flat",
         "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_ciane2.jpg"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_mosteiro_saobento2.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/mosteiro_saobento2.jpg"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
@@ -136,12 +136,12 @@
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_paco1.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_paco1.jpg"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/douglimar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c75a2ebd5fc92e2dce39bb48bbb29916/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_paco1.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_paco1.jpg"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
@@ -548,12 +548,12 @@
         "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/ic_thumb_kasatumaru.jpg"
     },
     {
-        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_campolim6.jpg.flat",
-        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_campolim6.jpg"
-    },
-    {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/mipmap_ic_launcher_transp.png.flat",
         "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/mipmap/ic_launcher_transp.png"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_pic_campolim6.jpg.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/pic_campolim6.jpg"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
@@ -2666,6 +2666,10 @@
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/menu_menu_details.xml.flat",
         "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/menu/menu_details.xml"
+    },
+    {
+        "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/drawable_bootsplash_en.png.flat",
+        "source": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/src/main/res/drawable/bootsplash_en.png"
     },
     {
         "merged": "/home/douglimar/workspace/AndroidStudioProjects/SorocabaGuide2/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",

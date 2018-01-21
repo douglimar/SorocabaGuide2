@@ -15,9 +15,9 @@ public final class R {
     public static final class id {
         public static final int auto = 0x7f080026;
         public static final int center = 0x7f080032;
-        public static final int none = 0x7f080072;
-        public static final int normal = 0x7f080073;
-        public static final int radio = 0x7f08007f;
+        public static final int none = 0x7f080071;
+        public static final int normal = 0x7f080072;
+        public static final int radio = 0x7f08007e;
         public static final int text = 0x7f0800ab;
         public static final int text2 = 0x7f0800ac;
         public static final int toolbar = 0x7f0800b6;

@@ -6,6 +6,9 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.os.Handler;
+import android.widget.FrameLayout;
+
+import java.util.Locale;
 
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
@@ -90,11 +93,36 @@ public class SplashActivity extends AppCompatActivity implements Runnable{
 
         setContentView(R.layout.activity_splash);
 
+
+        // Code to Change Wallpaper dinamically, according to the environment Language
+        // DDM code
+        String lang = Locale.getDefault().getLanguage();
+
+        //Toast.makeText(Splash2.this, lang.toString(), Toast.LENGTH_SHORT).show();
+
+        FrameLayout internalFrameLayout = (FrameLayout) findViewById(R.id.splashFrameLayout);
+
+        switch (lang) {
+
+            case "pt":
+                internalFrameLayout.setBackgroundResource(R.drawable.bootsplash_1280x768);
+                break;
+            case "en":
+                internalFrameLayout.setBackgroundResource(R.drawable.bootsplash_en);
+                break;
+            default:
+                internalFrameLayout.setBackgroundResource(R.drawable.bootsplash_1280x768);
+                break;
+        }
+
+
         mVisible = true;
         //mControlsView = findViewById(R.id.fullscreen_content_controls);
 
         Handler h = new Handler();
         h.postDelayed(this,5000);
+
+
 
         // Set up the user interaction to manually show or hide the system UI.
 //        mContentView.setOnClickListener(new View.OnClickListener() {

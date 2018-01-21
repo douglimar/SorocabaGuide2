@@ -61,7 +61,8 @@
         android:gravity="start|center"
         android:background="@drawable/bg_button_historicalplaces"
         android:drawableStart="@drawable/ic_places"
-        android:text="@string/monumentos_e_locais_historicos"/>
+        android:text="@string/monumentos_e_locais_historicos"
+        tools:targetApi="lollipop" />
 
 <!--
     <Button
